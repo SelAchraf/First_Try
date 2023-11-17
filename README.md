@@ -1,4 +1,4 @@
 #Hello
 
 Salut les mobres du groupe ATOMIC Code,
-je suis SELOUGHA Med Achraf.
+je suis un etudiant du L3 informatique.
